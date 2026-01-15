@@ -1,4 +1,4 @@
-# Olá, eu sou Guto 👋  
+# Olá, eu sou Walter 👋  
 **Desenvolvedor Back-End em formação | Python, Java, Spring Boot & SQL | Transição de Dados para Engenharia de Software com foco em automação e escalabilidade**
 
 ---
