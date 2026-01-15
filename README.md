@@ -24,7 +24,7 @@ Automatiza a conferência de faturas de pedágio com relatórios de auditoria, i
 **Stack:** Python, Pandas, Excel  
 **Objetivo:** Auditoria financeira automatizada, confiável e escalável.
 
-### 2️⃣ [Mail Classifier AI](https://github.com/euwalteraugusto/mail-classifier-ai)  
+### 2️⃣ [Classificador de e-mails com IA](https://github.com/euwalteraugusto/mail-classifier-ai)  
 Classificador de e-mails usando Python e NLP, com interface web em Flask, para triagem e categorização automática de mensagens.  
 **Stack:** Python, Flask, NLP, HTML/CSS/JS  
 **Objetivo:** Demonstrar desenvolvimento Back-End, automação e integração de dados.
