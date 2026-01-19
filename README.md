@@ -1,47 +1,103 @@
-# Olá, eu sou Walter 👋  
-**Desenvolvedor Back-End em formação | Python, Java, Spring Boot & SQL | Transição de Dados para Engenharia de Software com foco em automação e escalabilidade**
+# Walter Augusto | Desenvolvedor Backend
+
+> **Desenvolvedor Backend focado em automação e integração de sistemas**  
+> Transformando processos manuais em soluções escaláveis com Python, Java e APIs REST
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/walteraugusto)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:walter.fonseca2377@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Projetos-181717?style=flat&logo=github&logoColor=white)](https://github.com/euwalteraugusto?tab=repositories)
 
 ---
 
-## Sobre mim
-Sou um profissional em transição estruturada de análise de dados e processos para **Desenvolvimento Back-End**, com foco em automação, integração de sistemas e soluções escaláveis. Minha trajetória em áreas administrativas e operacionais me proporcionou habilidades sólidas em lógica, análise crítica, resolução de problemas e melhoria contínua, fundamentais para engenharia de software.
+## 💼 Sobre
 
-Atualmente estou em formação em **TI**, estudando **Python, Java, SQL, APIs REST, estruturas de dados e Spring Boot**, e aplicando esses conhecimentos em projetos práticos.
+**Desenvolvedor Backend** em transição estruturada de análise de dados para engenharia de software, com foco em:
 
----
+✅ **Automação de processos** - Redução de trabalho manual através de código  
+✅ **Integração de sistemas** - APIs REST, consumo e exposição de dados  
+✅ **Soluções escaláveis** - Arquitetura pensada para crescimento  
+✅ **Análise crítica** - Background em dados e processos corporativos
 
-## Tecnologias e Skills
-- **Linguagens:** Python, Java, SQL  
-- **Frameworks / Ferramentas:** Spring Boot, Flask, Pandas, Jupyter  
-- **Conceitos:** APIs REST, automação de processos, integração de dados, escalabilidade, análise crítica, Inteligência Artificial, Engenharia de Prompt
-
----
-
-## Projetos em destaque
-
-### 1️⃣ [Auditoria de Pedágios](https://github.com/euwalteraugusto/auditoria-pedagios)  
-Automatiza a conferência de faturas de pedágio com relatórios de auditoria, identificando divergências e exportando resultados para Excel.  
-**Stack:** Python, Pandas, Excel  
-**Objetivo:** Auditoria financeira automatizada, confiável e escalável.
-
-### 2️⃣ [Classificador de e-mails com IA](https://github.com/euwalteraugusto/mail-classifier-ai)  
-Classificador de e-mails usando Python e NLP, com interface web em Flask, para triagem e categorização automática de mensagens.  
-**Stack:** Python, Flask, NLP, HTML/CSS/JS  
-**Objetivo:** Demonstrar desenvolvimento Back-End, automação e integração de dados.
-
-### 3️⃣ [Elon Musk - A Mente e os Impérios de um Visionário](https://github.com/euwalteraugusto/bio-elon-musk-notebooklm)  
-Projeto desenvolvido para a DIO utilizando NotebookLM, analisando a trajetória de Elon Musk, métodos de gestão e inovação.  
-**Objetivo:** Síntese e análise estratégica de conhecimento, aplicando técnicas de organização e estudo.
-
-### 4️⃣ [Perfil GitHub](https://github.com/euwalteraugusto/euwalteraugusto)  
-Repositório de configuração e personalização do meu perfil no GitHub.
+**Diferencial:** Combino visão de negócio (experiência corporativa) com habilidades técnicas sólidas.
 
 ---
 
-## Contato
-- GitHub: [github.com/euwalteraugusto](https://github.com/euwalteraugusto)  
-- LinkedIn: [linkedin.com/in/walteraugusto](https://www.linkedin.com/in/walteraugusto)
+## 🛠️ Stack Técnica
+
+**Backend & APIs**  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
+![REST APIs](https://img.shields.io/badge/-REST%20APIs-009688?style=flat&logo=fastapi&logoColor=white)
+
+**Dados & Ferramentas**  
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+
+**IA & NLP**  
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Transformers](https://img.shields.io/badge/-Transformers-FFD000?style=flat&logo=huggingface&logoColor=black)
 
 ---
 
-💡 **Nota:** Meu foco é integrar **tecnologia, dados e automação** para construir soluções eficientes, escaláveis e orientadas a resultados. Estou aberto a contribuições em projetos open-source e oportunidades de estágio ou posições júnior em Back-End.
+## 🚀 Projetos que Resolvem Problemas Reais
+
+### 🎙️ [Voice Assistant Multi-idiomas](https://github.com/euwalteraugusto/voice-assistant)
+**Problema:** Interação por voz com IA em aplicações corporativas  
+**Solução:** Pipeline completo de captura de áudio → transcrição (Whisper) → processamento (ChatGPT) → resposta em áudio (gTTS)  
+**Impacto:** Interface conversacional acessível e multilíngue  
+`Python` `OpenAI API` `Speech Recognition` `Audio Processing`
+
+### 📧 [Classificador Inteligente de Emails](https://github.com/euwalteraugusto/mail-classifier)
+**Problema:** Triagem manual de emails corporativos consome tempo e gera perda de mensagens críticas  
+**Solução:** Sistema híbrido (heurísticas + zero-shot NLP) que classifica emails em produtivos/improdutivos com decisões explicáveis  
+**Impacto:** Redução de 70% no tempo de classificação sem necessidade de datasets rotulados  
+`Python` `Flask` `NLP` `Transformers` `Zero-Shot Learning`
+
+### 💰 [Auditoria Automatizada de Pedágios](https://github.com/euwalteraugusto/auditoria-pedagios)
+**Problema:** Conferência manual de centenas de faturas vs. relatórios de passagem  
+**Solução:** Automação que compara dados, identifica divergências e gera relatórios estruturados em Excel  
+**Impacto:** Elimina erros humanos e reduz tempo de auditoria de dias para minutos  
+`Python` `Pandas` `Excel` `Financial Automation`
+
+---
+
+## 📊 GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=euwalteraugusto&show_icons=true&theme=transparent&hide_border=true&title_color=3776AB&text_color=333&icon_color=3776AB)
+
+---
+
+## 🎓 Formação
+
+- 🎓 **Tecnologia da Informação** (em andamento)
+- 🏆 **Bootcamp DIO + Bradesco** - Inteligência Artificial Generativa e Dados
+- 📚 Estudando: Python, Java, Spring Boot, APIs REST, Microservices, Design Patterns
+
+---
+
+## 💡 O Que Me Move
+
+Acredito que **bom código resolve problemas de negócio**. Meu foco não é apenas escrever código que funciona, mas criar soluções que:
+
+- ⚡ **Economizam tempo** através de automação
+- 🔄 **Integram sistemas** de forma eficiente
+- 📈 **Escalam** conforme a demanda cresce
+- 🧩 **São mantíveis** por outros desenvolvedores
+
+---
+
+## 📫 Vamos Conversar?
+
+Estou em busca de **oportunidades de estágio ou posição júnior em Backend Development** onde eu possa aplicar minhas habilidades técnicas e visão de negócio para criar soluções que realmente fazem diferença.
+
+**Disponível para:** Remoto ou híbrido | São Paulo e região
+
+[![LinkedIn](https://img.shields.io/badge/-Conectar%20no%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/walteraugusto)
+[![Email](https://img.shields.io/badge/-Enviar%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:walter.fonseca2377@gmail.com)
+
+---
+
+⭐ **Se meus projetos agregaram valor, considere dar uma estrela!**
