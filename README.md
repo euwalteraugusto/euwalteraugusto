@@ -72,7 +72,7 @@
 
 ## 🎓 Formação
 
-- 🎓 **Tecnologia da Informação** (em andamento)
+- 🎓 **Tecnologia da Informação** | Informática para Negócios - FATEC São Bernardo do Campo (em andamento)
 - 🏆 **Bootcamp DIO + Bradesco** - Inteligência Artificial Generativa e Dados
 - 📚 Estudando: Python, Java, Spring Boot, APIs REST, Microservices, Design Patterns
 
