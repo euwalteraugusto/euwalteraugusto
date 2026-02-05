@@ -1,6 +1,6 @@
-# Walter Augusto | Desenvolvedor Backend
+# Walter Augusto | Desenvolvedor Back-end
 
-> **Desenvolvedor Backend focado em automação e integração de sistemas**  
+> **Desenvolvedor Back-end em formação, com foco em automação e integração de sistemas**  
 > Transformando processos manuais em soluções escaláveis com Python, Java e APIs REST
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/walteraugusto)
@@ -11,7 +11,7 @@
 
 ## 💼 Sobre
 
-**Desenvolvedor Backend** em transição estruturada de análise de dados para engenharia de software, com foco em:
+**Desenvolvedor Back-end** em transição estruturada de análise de dados para engenharia de software, com foco em:
 
 ✅ **Automação de processos** - Redução de trabalho manual através de código  
 ✅ **Integração de sistemas** - APIs REST, consumo e exposição de dados  
@@ -24,7 +24,7 @@
 
 ## 🛠️ Stack Técnica
 
-**Backend & APIs**  
+**Back-end & APIs**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=white)
@@ -61,6 +61,12 @@
 **Solução:** Automação que compara dados, identifica divergências e gera relatórios estruturados em Excel  
 **Impacto:** Elimina erros humanos e reduz tempo de auditoria de dias para minutos  
 `Python` `Pandas` `Excel` `Financial Automation`
+
+### 💰 [Adam - Agente Financeiro Inteligente](https://github.com/euwalteraugusto/agent-adam)
+**Problema:** Consultorias financeiras são caras e chatbots comuns entregam respostas genéricas ou inseguras 
+**Solução:** Agente de IA Generativa local que integra dados do usuário a modelos LLM com sistema anti-alucinação  
+**Impacto:** Proporciona planejamento financeiro personalizado e proativo com custo zero e total privacidade 
+`Python` `Ollama` `IA Generativa` `Llama 3.1` `Streamlit`
 
 ---
 
