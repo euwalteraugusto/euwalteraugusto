@@ -1,66 +1,83 @@
-# Olá, eu sou o Walter Augusto 👋
+# Walter Fonseca
 
-> **Desenvolvedor Back-end | Foco em Automação, APIs e IA Generativa**  
-> Transformando desafios de negócio em soluções técnicas escaláveis.
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/walteraugusto)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:walter.fonseca2377@gmail.com)
+**Backend Developer | Java (Spring Boot) | Python (Automation & Data) | SQL | REST APIs**  
+Focado na construção de APIs, automação de processos e sistemas orientados a dados. Em transição estruturada para desenvolvimento backend, com objetivo de atuar como estagiário.
 
 ---
 
-## 💼 Sobre Mim
+## Sobre
 
-Sou um **Desenvolvedor Back-end** com uma trajetória sólida em análise de dados e processos corporativos, agora aplicando essa visão estratégica na engenharia de software. Meu foco é construir sistemas que não apenas funcionem, mas que otimizem o tempo e os recursos das empresas.
+Profissional com experiência prática em automação de processos, análise de dados e desenvolvimento de soluções aplicadas a problemas reais de negócio.
 
-- 🛠️ **Desenvolvimento:** Especialista em Python e em evolução constante com Java e Spring Boot.
-- 🤖 **IA & Automação:** Implementação de agentes inteligentes e integração de LLMs (Llama 3, OpenAI) para automação de tarefas críticas.
-- 📊 **Visão de Negócio:** Experiência em transformar requisitos complexos em fluxos de trabalho simplificados e automatizados.
+Atuo principalmente com Python, modelagem de dados e integração de sistemas, evoluindo para o desenvolvimento backend com Java e Spring Boot, com foco em construção de APIs, organização em camadas e boas práticas de engenharia de software.
 
----
-
-## 🛠️ Stack Técnica
-
-**Linguagens & Frameworks** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
-
-**Ecossistema de IA & Dados** ![Groq](https://img.shields.io/badge/-Groq-f3d122?style=flat&logo=lightning&logoColor=black)
-![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat&logo=chainlink&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
-
-**Ferramentas & Infra** ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![REST_APIs](https://img.shields.io/badge/-REST_APIs-009688?style=flat&logo=postman&logoColor=white)
+Tenho perfil analítico, orientado a eficiência operacional e redução de custos, utilizando tecnologia como meio para gerar impacto direto no negócio.
 
 ---
 
-## 🚀 O que estou construindo?
+## Projeto de Destaque
 
-Atualmente, dedico meu tempo ao desenvolvimento de soluções que unem o poder do **Back-end robusto** com a **Inteligência Artificial aplicada**. 
+**Sistema de Auditoria Financeira Automatizada**
 
-### 💡 Confira meus repositórios fixados abaixo para ver:
-- Agentes financeiros inteligentes com LLMs locais.
-- Classificadores de e-mail de alta performance com processamento híbrido.
-- Automações financeiras e auditorias de dados.
-
----
-
-## 📊 Estatísticas
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=euwalteraugusto&show_icons=true&theme=transparent&hide_border=true&title_color=3b82f6&text_color=cbd5e1&icon_color=3b82f6" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=euwalteraugusto&layout=compact&theme=transparent&hide_border=true&title_color=3b82f6&text_color=cbd5e1" height="150" alt="Top Langs" />
-</p>
+- Desenvolvimento de solução para análise de faturas de pedágio
+- Stack: Python, FastAPI, PostgreSQL, Docker Compose
+- Redução do tempo de análise de dias para tempo real
+- Identificação automatizada de inconsistências com alta precisão
+- Implementação de regras de negócio, integração de dados e APIs
 
 ---
 
-## 📫 Vamos conectar?
+## Stack Técnica
 
-Estou sempre aberto a discussões sobre novas tecnologias, arquitetura de sistemas e oportunidades de colaboração.
+### Backend
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-009688?style=flat&logo=postman&logoColor=white)
 
-[![LinkedIn](https://img.shields.io/badge/-Conectar%20no%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/walteraugusto)
-[![Email](https://img.shields.io/badge/-Enviar%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:walter.fonseca2377@gmail.com)
+### Dados & Persistência
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=database&logoColor=white)
+
+### Automação & Processamento
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+
+### Ferramentas & Infraestrutura
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+## Foco Atual
+
+- Desenvolvimento backend com  Java (Spring Boot) | Python (Automation & Data)
+- Estruturação de APIs REST escaláveis
+- Arquitetura em camadas (controllers, services, repositories)
+- Integração entre sistemas
+- Boas práticas de código e organização de projetos
+
+---
+
+## Objetivo
+
+Atuar como estagiário em desenvolvimento backend, contribuindo na construção de APIs e sistemas orientados a dados, aplicando experiência prévia em automação, análise e integração para gerar soluções eficientes e escaláveis.
+
+---
+
+## Projetos
+
+Consulte os repositórios fixados para ver implementações práticas de:
+
+- Automação de processos financeiros
+- Integração de dados e APIs
+- Aplicações com IA generativa e LLMs
+- Processamento e análise de dados em larga escala
+
+---
+
+## Contato
+
+- LinkedIn: https://linkedin.com/in/walteraugusto  
+- Email: walter.fonseca2377@gmail.com
 
 ---
