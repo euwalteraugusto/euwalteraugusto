@@ -20,7 +20,6 @@ Estou aprofundando Python para automação e desenvolvimento de APIs (FastAPI), 
 - Stack: Python, FastAPI, PostgreSQL, Docker Compose
 - Redução do tempo de análise de dias para tempo real
 - Identificação automatizada de inconsistências com alta precisão
-- Repo: [link do repositório]
 
 ---
 
